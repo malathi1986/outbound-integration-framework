@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>Partner Opportunity Integration</label>
+    <protected>false</protected>
+    <values>
+        <field>Access_Token_URL__c</field>
+        <value xsi:type="xsd:string">https://login.salesforce.com/services/oauth2/token</value>
+    </values>
+    <values>
+        <field>Client_Id__c</field>
+        <value xsi:type="xsd:string">3MVG9fMtCkV6eLhe6Z1RLCpHYuyKaio3dckyngdFFsuXSLHVX9mbhdiqXitEn01eSYZA3qPk2GG8MpUUIL3Co</value>
+    </values>
+    <values>
+        <field>Client_Secret__c</field>
+        <value xsi:type="xsd:string">90326F2B33DB99822059EE2E3EEB989E02B092052358DEC1E929AFDA1349C41E</value>
+    </values>
+    <values>
+        <field>Grant_Type__c</field>
+        <value xsi:type="xsd:string">password</value>
+    </values>
+    <values>
+        <field>IntegerationSetting__c</field>
+        <value xsi:type="xsd:string">Partner_Opportunity_Integration</value>
+    </values>
+    <values>
+        <field>Password__c</field>
+        <value xsi:type="xsd:string">Malathi@123JEgdROqcjVlJTvg0jkkmD8I9</value>
+    </values>
+    <values>
+        <field>User_name__c</field>
+        <value xsi:type="xsd:string">partner.leadintegration@gmail.com.st</value>
+    </values>
+</CustomMetadata>
